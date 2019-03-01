@@ -8,3 +8,6 @@ https://kodaktor.ru/g/task_func_a1478
 
 FUNC-002:
 https://kodaktor.ru/g/func_11dad
+
+FUNC-003:
+https://kodaktor.ru/g/func_c463d
