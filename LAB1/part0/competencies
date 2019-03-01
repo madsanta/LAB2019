@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <mycompetencies>
+    <competency>
+      <name>Protocols</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>HTML</name>
+      <value>Very Good</value>
+    </competency>
+
+    <competency>
+      <name>CSS</name>
+      <value>Ver Good</value>
+    </competency>
+    
+    <competency>
+      <name>JS</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>Data Bases</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>Python</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>PHP</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>React</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>CMS</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>CSS preprocessors</name>
+      <value>Good</value>
+    </competency>
+
+    <competency>
+      <name>Gulp</name>
+      <value>Good</value>
+    </competency>
+  </mycompetencies>
