@@ -9,14 +9,13 @@
   </ips>
   <accesses>
     <pc_accesses>
-      <pc name="Windows" amount="12"/>
-      <pc name="Linux" amount="11"/>
-      <pc name="MacOS" amount="6"/>
+      <platform name="Windows" amount="12"/>
+      <platform name="Linux" amount="11"/>
+      <platform name="MacOS" amount="6"/>
     </pc_accesses>
     <mobile_accesses>
-      <mobile name="Windows" amount="12"/>
-      <mobile name="Linux" amount="11"/>
-      <mobile name="MacOS" amount="6"/>
+      <platform name="iOS" amount="12"/>
+      <platform name="Android" amount="11"/>
     </mobile_accesses>
   </accesses>
 </data>
