@@ -1,58 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<myportfolio>
   <mycompetencies>
-    <competency>
-      <name>Protocols</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>HTML</name>
-      <value>Very Good</value>
-    </competency>
-
-    <competency>
-      <name>CSS</name>
-      <value>Ver Good</value>
-    </competency>
-    
-    <competency>
-      <name>JS</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>Data Bases</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>Python</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>PHP</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>React</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>CMS</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>CSS preprocessors</name>
-      <value>Good</value>
-    </competency>
-
-    <competency>
-      <name>Gulp</name>
-      <value>Good</value>
-    </competency>
+    <competency in="Protocols" value="Good" />
+    <competency in="HTML" value="Very Good" />
+    <competency in="CSS" value="Very Good" />
+    <competency in="JS" value="Good" />
+    <competency in="Data Bases" value="Good" />
+    <competency in="Python" value="Good" />
+    <competency in="PHP" value="Good" />
+    <competency in="React" value="Good" />
+    <competency in="CMS" value="Good" />
+    <competency in="CSS preprocessors" value="Good" />
+    <competency in="Gulp" value="Good" />
   </mycompetencies>
+ </myportfolio>
