@@ -4,4 +4,4 @@
 # URL: https://kodaktor.ru/g/xmlt_afe1b
 
 FUNC-001:
-https://kodaktor.ru/g/task_func_a147
+https://kodaktor.ru/g/task_func_a1478
