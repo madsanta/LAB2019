@@ -29,3 +29,6 @@ https://kodaktor.ru/func_ee4ef
 
 FUNC-009:
 https://kodaktor.ru/func_9d2fa
+
+FUNC-010
+https://kodaktor.ru/func_988de
