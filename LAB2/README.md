@@ -15,3 +15,5 @@ https://kodaktor.ru/g/func_c463d
 FUNC-004:
 https://kodaktor.ru/g/func_fc134
 
+FUNC-005: 
+https://kodaktor.ru/g/func_2d5ad
