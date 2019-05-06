@@ -17,3 +17,15 @@ https://kodaktor.ru/g/func_fc134
 
 FUNC-005: 
 https://kodaktor.ru/g/func_2d5ad
+
+FUNC-006:
+https://kodaktor.ru/g/func_4d2cc
+
+FUNC-007:
+https://kodaktor.ru/func_cf678
+
+FUNC-008:
+https://kodaktor.ru/func_ee4ef
+
+FUNC-009:
+https://kodaktor.ru/func_9d2fa
