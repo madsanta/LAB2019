@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.0",
+    "less": "^3.9.0",
+    "rollup": "^1.12.3",
+    "rollup-plugin-copy": "^2.0.1",
+    "rollup-plugin-less-modules": "^0.1.11",
+    "rollup-plugin-lit-html": "^2.0.1",
+    "rollup-plugin-node-resolve": "^5.0.0"
+  },
+  "scripts": {
+    "build": "rollup -c rollup.config.js --watch",
+    "start": "node dev/server.js"
+  }
+}
