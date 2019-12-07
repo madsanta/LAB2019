@@ -1,0 +1,1 @@
+{"version":3,"file":"init.js","sources":["webpack:///init.js"],"sourcesContent":["webpackJsonp([1],[function(e,n,t){var i=(t(1),t(2),t(4));window.jQuery=i,window.$=i}]);\n\n\n/** WEBPACK FOOTER **\n ** init.js\n **/"],"mappings":"AAAA","sourceRoot":""}
